@@ -8,14 +8,14 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;Blockchain+%26+Smart+Contracts+%E2%9B%93%EF%B8%8F;Reverse+Engineering+Enthusiast+%F0%9F%94%8D;Breaking+things+with+Ghidra+%26+ASM+%F0%9F%A7%A9;Solving+Microcorruption+CTFs+%F0%9F%9A%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Blockchain+%26+Smart+Contracts;Reverse+Engineering+Enthusiast;Working+with+Ghidra+%26+ASM;Solving+Microcorruption+CTFs" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-## 💫 About Me
+## About Me
 
 ```yaml
 name: Miguel Aguilar
@@ -24,18 +24,16 @@ currently_exploring:
   - Blockchain Development (Smart Contracts & Solidity)
   - Reverse Engineering (x86/x64 ASM, Ghidra)
   - Binary Exploitation CTFs (Microcorruption)
-fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries apart."
 ```
 
-- 🧱 Building full stack applications end-to-end — frontend, backend & databases.
-- ⛓️ Diving deep into **Blockchain development**, smart contracts and decentralized apps.
-- 🔍 Studying **Reverse Engineering**, disassembling binaries and understanding low-level execution.
-- 🚩 Practicing **binary exploitation** through **Microcorruption** CTF challenges.
-- 🌱 Always shipping something new — code by day, sometimes a debugger by night.
+- Building full stack applications end-to-end — frontend, backend and databases.
+- Working with Blockchain development, smart contracts and decentralized applications.
+- Studying Reverse Engineering, disassembling binaries and analyzing low-level execution.
+- Practicing binary exploitation through Microcorruption CTF challenges.
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -46,7 +44,7 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 <br/>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -90,24 +88,7 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Waave5?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Waave5&repo=REPLACE_WITH_REPO_1&theme=synthwave&hide_border=false" />
-</a>
-<a href="https://github.com/Waave5?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Waave5&repo=REPLACE_WITH_REPO_2&theme=synthwave&hide_border=false" />
-</a>
-
-<sub>✏️ Replace <code>REPLACE_WITH_REPO_1</code> / <code>REPLACE_WITH_REPO_2</code> with your actual repository names to pin them here.</sub>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -118,7 +99,7 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 </div>
 
-### 📈 Activity Graph
+### Activity Graph
 
 <div align="center">
 
@@ -126,7 +107,7 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -134,11 +115,11 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 </div>
 
-<sub>⚙️ To activate the snake animation above, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a workflow in this repository — it generates the SVG automatically on a schedule.</sub>
+<sub>To activate the snake animation above, add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to a workflow in this repository — it generates the SVG automatically on a schedule.</sub>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -148,7 +129,7 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 <br/>
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
 <div align="center">
 
@@ -167,10 +148,6 @@ fun_fact: "I enjoy building on the web just as much as I enjoy taking binaries a
 
 [![](https://visitcount.itsvg.in/api?id=Waave5&icon=0&color=6)](https://visitcount.itsvg.in)
 
-**⭐ If you find my work interesting, consider following along — more projects and write-ups are on the way.**
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer"/>
-
-<!-- Proudly redesigned for maximum GitHub profile impact -->
